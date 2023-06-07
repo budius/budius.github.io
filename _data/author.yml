@@ -1,0 +1,15 @@
+name: Budius
+dp: https://avatars.githubusercontent.com/u/2651842?s=400&u=0c4f305dcadcb6d624c359554c152ee59a542e25&v=4
+description: "
+  <p>
+    Random musings about abstraction layers and code architecture.
+  </p>
+  <br/>
+  <p>
+    Everything here is work-in-progress and bound to change when better ideas emerge.
+  </P>
+"
+email: budius.at.no.email
+contact:
+  - title: github
+    url: https://github.com/budius/budius.github.io/issues

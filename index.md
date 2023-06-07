@@ -1,3 +1,8 @@
+---
+title: Blog
+layout: blog
+---
+
 # Hello World
 
-This is a site
+This is a static website
