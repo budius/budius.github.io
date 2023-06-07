@@ -9,6 +9,7 @@
   --gray-6: #111111;
   --white-1: #eeeeee;
   --white-2: #a9abb3;
+  --android-green: #3ddc84;
 }
 * {
   font-family: inherit;
@@ -41,7 +42,7 @@ header {
   font-size: 1.4rem;
   font-weight: bolder;
   line-height: 110%;
-  color: var(--white-1);
+  color: var(--android-green);
 }
 main {
   margin: 0 auto;
