@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jekyll Markdown
+title: The relation between the UI and its ViewModel
 date: 2023-06-07
-categories: ["andorid", "compose"]
+categories: ["android", "compose"]
 ---
 
 There is this link I've been exploring between `Views` and their `ViewModels`.
