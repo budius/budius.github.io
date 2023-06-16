@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Purpose of Education
-date: 1948-12-12 10:18:00
+date: 1970-01-01 00:00:02
 categories: [fiction, jekyll]
 ---
 

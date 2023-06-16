@@ -1,8 +1,6 @@
 ---
-title: Blog
-layout: blog
+layout: home
 ---
 
-# Hello World
 
-This is a static website
+This is a static website and I can write stuff on it

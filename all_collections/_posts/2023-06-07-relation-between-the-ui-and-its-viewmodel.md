@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The relation between the UI and its ViewModel
-date: 2023-06-07
+date: 1970-01-01 00:00:10
 categories: ["android", "compose"]
 ---
 
