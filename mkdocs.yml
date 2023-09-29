@@ -1,0 +1,32 @@
+site_name: An android developer musings on abstraction and architecture
+repo_name: An android developer musings on abstraction and architecture
+repo_url: https://github.com/budius/budius.github.io
+
+plugins:
+    - blog:
+        blog_toc: true
+        archive: false
+        categories: false
+    
+theme:
+    name: material
+    favicon: assets/logo.png
+    features:   
+        - navigation.tabs
+    palette:
+
+        # Palette toggle for light mode
+        #- scheme: default
+        #  primary: deep orange
+        #  accent: deep purple
+        #  toggle:
+        #      icon: material/weather-sunny
+        #      name: Switch to dark mode
+
+        # Palette toggle for dark mode
+        - scheme: slate
+          primary: deep purple
+          accent: deep orange
+          toggle:
+              icon: material/weather-night
+              name: Switch to light mode
